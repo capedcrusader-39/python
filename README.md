@@ -1,4 +1,4 @@
-# python
+# Python
 Basic Python programs to understand concepts
 ## Overview
 Welcome to my Python learning repository! This collection of scripts represents my journey through learning the fundamental concepts of Python programming. Each program is a step toward mastering the basics and applying what I’ve learned in practical, simple projects.
